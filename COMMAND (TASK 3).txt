@@ -1,0 +1,12 @@
+OPEN COMMAND , RUN 
+
+
+cd
+
+D:
+
+python simulate_realtime_data.py
+
+(OPEN THE DASHBOARD AND RUN THE COMMANDS IN BACKGROUND)
+
+REFRESH N POWER BI DESKTOP 
