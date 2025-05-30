@@ -19,5 +19,9 @@ This repository presents a real-time operational monitoring dashboard developed 
 
 The implementation of this dashboard led to significant simulated operational insights, helping to identify anomaly patterns and areas of delay that would have otherwise gone unnoticed in static reporting systems. During testing, the system was able to flag critical fluctuations that accounted for over 33% of system instability, allowing hypothetical corrective actions that could improve efficiency by an estimated 24% in a live environment. Moreover, with the dashboard's ability to break down values by status type and track live average scores, stakeholders would gain instantaneous visibility into performance dips, reducing response time by 40%. This repository is a model for how organizations can simulate and prepare for full-scale real-time analytics infrastructure without relying on complex cloud pipelines.
 
+Note: The .csv.txt file should be renamed to realtime_data.csv before running the script.
+
+
+
 **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/55d6614e-42e3-4845-b709-cf8e3a1cad56)
