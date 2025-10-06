@@ -25,5 +25,4 @@ The PBIX file contains all visualizations, integrated Python scripts, and data t
 
 
 
-**OUTPUT**
-![Image](https://github.com/user-attachments/assets/55d6614e-42e3-4845-b709-cf8e3a1cad56)
+**OUTPUT**<img width="1481" height="895" alt="Image" src="https://github.com/user-attachments/assets/c78057df-4340-4bfe-abe8-144db546b1b0" />
